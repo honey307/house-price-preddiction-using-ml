@@ -1,0 +1,14 @@
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+**HOUSE PRICE PREDICTOR**    
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+WE HAVE CREATED A HOUSE PRICE PREDICTOR BY USING VARIOUS MACHINE LEARNING ALGORITHMS.								      
+THE PUROPOSE OF THIS POROJECT IS TO CREATE A MEANS OF FAIR PRICE PREDICTORS THAT WILL TAKE SOME "DECISIVE FACTORS" AS INPUT,
+AND GIVES THE PRICE OF THE PROPERTY AS AN OUTPUT.
+WE STARTED BY CREATING, CLEANING AND OPTIMIZING OUR DATASET.
+THE NEXT STEP WAS TRAINING OUR MODEL ON VARIOUS MACHINE LEARNING TECHNIQUES TO GENERATE HIGHEST ACCURACY AND THE BEST FITTING CURVE.
+THE FINAL STEP IS TO PREDICT THE HOUSE PRICE, THE USER ENTERS 6 VARIABLES AND RECIEVES THE HOUSE PRICE AS AN OUTPUT.
+THE PYTHON CODE FILE WAS THEN LINKED TO OUR WEBPAGE AND TOGETHER THE FRONT END, THE BACK END AND THE SERVERS (THE LOCAL HOST) COMPRISE OUR PROJECT.
+ 
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
